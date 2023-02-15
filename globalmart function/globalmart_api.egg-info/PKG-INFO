@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: globalmart-api
+Version: 0.1
+Summary: Fetch the data from the GlobalMart API and helps us to ingest and process the data via dataframe
+Author: Burhanuddin
+License-File: License.txt
